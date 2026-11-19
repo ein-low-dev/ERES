@@ -1,6 +1,6 @@
 # ERES
 
-#### A basic shell written in C. Easy to configure.
+## A basic shell written in C. Easy to configure.
 
 ERES or Ein Rewrite a Shell is a _simple shell, configurable_. I add __16 colors__ but it's hard for manually write ```\033[XXXm``` so i made a macro manually.
 
